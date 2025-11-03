@@ -58,3 +58,4 @@ public class Lab7 {
         System.out.println("\n=== All print jobs completed ===");
     }
 }
+
